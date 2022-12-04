@@ -30,7 +30,10 @@ namespace Exercice9ModulesBis
             Console.WriteLine("Veuillez saisir une valeur : ");
 
             abs(int.Parse(Console.ReadLine()));
+            Console.WriteLine("Je dis absolument n'imp pour avoir une modification");
             Console.ReadLine();
+
+
 
         }
     }
